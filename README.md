@@ -12,4 +12,7 @@
   <li> x11 Geastures for LAPTOP</li>
   <li> Vitals </li>
   <li> compiz alike magic lamp </li>
+  <li> Preload </li>
+  <li> tlp for power management </li>
+  <li> prime-select for switching GPU's </li>
 </ul>
