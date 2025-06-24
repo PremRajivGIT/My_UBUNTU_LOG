@@ -15,4 +15,6 @@
   <li> Preload </li>
   <li> tlp for power management </li>
   <li> prime-select for switching GPU's </li>
+  <li> Switched To WAYLAND </li>
+  <li> Enabled pinch to zoom using chrome://flags, via selecting wayland as defualt in ozonelayer</li>
 </ul>
